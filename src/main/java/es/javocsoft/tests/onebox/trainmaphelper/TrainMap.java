@@ -181,7 +181,7 @@ public class TrainMap {
 			String routePath = null;
 			while (it.hasNext()) {
 				destination = (Destination)it.next();
-				//We avoid cycling routes when two point communicate each other. 
+				//We avoid being stuck when two stations communicates each other
 				if(referralName!=null && referralName.contains(station.getName() + "-" + destination.getStation())){
 					continue;
 				}else{

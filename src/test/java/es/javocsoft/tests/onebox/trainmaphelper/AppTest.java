@@ -87,8 +87,8 @@ public class AppTest
     	String to = "D";
     	
     	System.out.println("\n\nThis gets the shortest distance between\n "
-    			+ "two points because normally people do not want to know\n "
-    			+ "the details of the route, only how much time "
+    			+ "two points because normally people only want to know\n "
+    			+ "not the details of the riute, just how much time "
     			+ "or distance is :)");
     	System.out.println("Input: " + tMap.getRawMap());
     	

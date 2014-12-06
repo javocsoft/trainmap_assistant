@@ -1,2 +1,4 @@
-trainmap_assistant
-==================
+tarin Map Assistant
+===================
+
+A train map routes assistant test tool.

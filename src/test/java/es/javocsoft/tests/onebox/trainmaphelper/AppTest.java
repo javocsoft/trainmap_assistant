@@ -46,10 +46,20 @@ public class AppTest
         return new TestSuite( AppTest.class );
     }
 
+    public void testOneboxT1(){
+    	System.out.println("Showing all station information:");
+    	tMap.showStationsInformation();
+    }
+    
+    public void testOneboxT2(){
+    	System.out.println("Showing all possible routes:");
+    	tMap.showAllPossibleRoutes();
+    }
+    
     /**
      * OneBox Required test.
      */    
-    public void testOneboxT1()
+    public void testOneboxT3()
     {   
     	System.out.println("Input: " + tMap.getRawMap());
     	int distance = 0;
@@ -72,7 +82,7 @@ public class AppTest
      * to know the details of the route, only how 
      * much time or distance is :)
      */
-    public void testOneboxT2Extra() {
+    public void testOneboxT4Extra() {
     	String from = "A";
     	String to = "D";
     	
@@ -90,4 +100,6 @@ public class AppTest
     	System.out.println("Shortest distance between " + from + " to " + to + " is: " + (shortestDistance!=TrainMap.NO_SUCH_ROUTE?shortestDistance:"NO SUCH ROUTE"));
     	
     }
+    
+    
 }

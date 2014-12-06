@@ -112,7 +112,7 @@ public class TrainMap {
 		if(routesTableCache.containsKey(route)){
 			return routesTableCache.get(route);
 		}else{
-			return -1;
+			return NO_SUCH_ROUTE;
 		}
 	}
 	

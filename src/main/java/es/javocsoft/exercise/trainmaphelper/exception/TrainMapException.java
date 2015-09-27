@@ -1,4 +1,4 @@
-package es.javocsoft.tests.onebox.trainmaphelper.exception;
+package es.javocsoft.exercise.trainmaphelper.exception;
 
 /**
  * Train Map Assistant exception.

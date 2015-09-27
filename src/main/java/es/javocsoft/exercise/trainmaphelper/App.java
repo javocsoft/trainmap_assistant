@@ -1,4 +1,4 @@
-package es.javocsoft.tests.onebox.trainmaphelper;
+package es.javocsoft.exercise.trainmaphelper;
 
 
 /**

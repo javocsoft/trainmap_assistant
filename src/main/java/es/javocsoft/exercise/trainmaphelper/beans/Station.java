@@ -1,4 +1,4 @@
-package es.javocsoft.tests.onebox.trainmaphelper.beans;
+package es.javocsoft.exercise.trainmaphelper.beans;
 
 import java.util.Iterator;
 import java.util.Set;

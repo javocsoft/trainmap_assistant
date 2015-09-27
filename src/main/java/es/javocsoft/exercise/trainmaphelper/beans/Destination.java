@@ -1,8 +1,8 @@
-package es.javocsoft.tests.onebox.trainmaphelper.beans;
+package es.javocsoft.exercise.trainmaphelper.beans;
 
 import org.apache.commons.lang.StringUtils;
 
-import es.javocsoft.tests.onebox.trainmaphelper.exception.TrainMapException;
+import es.javocsoft.exercise.trainmaphelper.exception.TrainMapException;
 
 /**
  * A destination information.

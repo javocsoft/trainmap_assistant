@@ -1,4 +1,4 @@
-package es.javocsoft.tests.onebox.trainmaphelper;
+package es.javocsoft.tests.exercise.trainmaphelper;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
@@ -6,6 +6,8 @@ import junit.framework.TestSuite;
 
 import org.junit.FixMethodOrder;
 import org.junit.runners.MethodSorters;
+
+import es.javocsoft.exercise.trainmaphelper.TrainMap;
 
 /**
  * Unit test for simple App.

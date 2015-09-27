@@ -1,4 +1,4 @@
-package es.javocsoft.tests.onebox.trainmaphelper;
+package es.javocsoft.exercise.trainmaphelper;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -10,10 +10,10 @@ import java.util.TreeMap;
 
 import org.apache.commons.lang.StringUtils;
 
-import es.javocsoft.tests.onebox.trainmaphelper.beans.Destination;
-import es.javocsoft.tests.onebox.trainmaphelper.beans.Station;
-import es.javocsoft.tests.onebox.trainmaphelper.exception.TrainMapException;
-import es.javocsoft.tests.onebox.trainmaphelper.utils.StringUtilities;
+import es.javocsoft.exercise.trainmaphelper.beans.Destination;
+import es.javocsoft.exercise.trainmaphelper.beans.Station;
+import es.javocsoft.exercise.trainmaphelper.exception.TrainMapException;
+import es.javocsoft.exercise.trainmaphelper.utils.StringUtilities;
 
 
 /**

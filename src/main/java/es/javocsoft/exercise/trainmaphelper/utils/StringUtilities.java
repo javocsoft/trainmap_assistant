@@ -1,4 +1,4 @@
-package es.javocsoft.tests.onebox.trainmaphelper.utils;
+package es.javocsoft.exercise.trainmaphelper.utils;
 
 import java.text.Normalizer;
 
